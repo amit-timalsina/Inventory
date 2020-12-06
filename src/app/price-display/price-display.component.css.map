@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "price-display.component.scss"
+    ],
+    "names": [],
+    "file": "price-display.component.css"
+}
